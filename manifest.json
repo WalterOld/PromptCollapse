@@ -1,0 +1,11 @@
+{
+    "display_name": "Prompt Collapse",
+    "loading_order": 9,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "YourName",
+    "version": "0.5.0",
+    "homePage": "https://github.com/YourRepo/PromptCollapse"
+}
