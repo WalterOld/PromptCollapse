@@ -119,7 +119,7 @@ jQuery(() => {
         );
 
         if (relevantChanges) {
-            setTimeout(addCollapseButtons, 100);
+            setTimeout(addCollapseButtons, 10);
         }
     });
 
